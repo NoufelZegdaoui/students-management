@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etudiants [
+<!ELEMENT etudiants (etudiant)+>
+<!ELEMENT etudiant (codeET , nomET , prenomET , age)>
+<!ELEMENT codeET (#PCDATA)>
+<!ELEMENT nomET (#PCDATA)>
+<!ELEMENT prenomET (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+]>
+<etudiants>
+  
+  
+  
+</etudiants>
